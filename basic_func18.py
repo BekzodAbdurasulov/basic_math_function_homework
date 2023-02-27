@@ -10,4 +10,5 @@ def main(a):
     '''
     return round(a, 2)
 
-print(main(pi))
+a = pi
+print(main(a))
