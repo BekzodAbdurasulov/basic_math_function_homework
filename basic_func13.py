@@ -10,4 +10,4 @@ def main(a):
     '''
     return sqrt(a)
 
-print(main(10))
+print(main(16))
